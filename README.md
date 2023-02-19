@@ -1,11 +1,10 @@
-# GAMENAME
+# 🎭 Comedy
 
-![](images/GAMENAME.jpeg "")
+<!-- ![](images/GAMENAME.jpeg "") -->
 
 ## Site
 
-- [local](http://localhost:8000/)
-- [Published](https://alexhedley.github.io/REPONAME)
+- [Published](https://alexhedley.github.io/comedy)
 
 ## Run
 
