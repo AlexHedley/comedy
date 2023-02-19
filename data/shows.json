@@ -1,7 +1,7 @@
 {
   "shows": [
     {
-      "id": 1,
+      "id": 2,
       "name": "The Friday Show",
       "date": "2023-02-17",
       "description": "",
@@ -11,6 +11,7 @@
       "venue": "The Stand Comedy Club",
       "location": "Newcastle",
       "image": "images/TheFridayShow.jpg",
+      "link": "https://www.thestand.co.uk/performances/1477-13953-the-friday-show-20230217-newcastle/",
       "comedians": [
         {
           "name": "Steffen Peddie",
@@ -31,6 +32,26 @@
         {
           "name": "Dan Antopolski",
           "link": "https://twitter.com/danantopolski",
+          "headliner": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "David O'Doherty",
+      "date": "2017-02-18",
+      "description": "",
+      "start": "00:00",
+      "end": "00:00",
+      "price": "£?",
+      "venue": "Tyne Theatre And Opera House",
+      "location": "Newcastle",
+      "image": "images/David-ODoherty.jpg",
+      "link": "https://www.tynetheatreandoperahouse.uk/events/david-odoherty-big-time/",
+      "comedians": [
+        {
+          "name": "David O'Doherty",
+          "link": "https://www.davidodoherty.com/",
           "headliner": true
         }
       ]
