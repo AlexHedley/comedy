@@ -1,0 +1,39 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "name": "The Friday Show",
+      "date": "2023-02-17",
+      "description": "",
+      "start": "20:30",
+      "end": "22:30",
+      "price": "£15.00",
+      "venue": "The Stand Comedy Club",
+      "location": "Newcastle",
+      "image": "images/TheFridayShow.jpg",
+      "comedians": [
+        {
+          "name": "Steffen Peddie",
+          "link": "https://twitter.com/Geordie_Comic"
+        },
+        {
+          "name": "Thor Stenhaug",
+          "link": "https://twitter.com/ThorStenhaug"
+        },
+        {
+          "name": "Connor Burns",
+          "link": "https://twitter.com/ConnorBurns3"
+        },
+        {
+          "name": "Samantha Mayes",
+          "link": "https://twitter.com/Spammayo"
+        },
+        {
+          "name": "Dan Antopolski",
+          "link": "https://twitter.com/danantopolski",
+          "headliner": true
+        }
+      ]
+    }
+  ]
+}
