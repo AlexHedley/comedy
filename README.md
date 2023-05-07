@@ -1,7 +1,5 @@
 # 🎭 Comedy
 
-<!-- ![](images/GAMENAME.jpeg "") -->
-
 ## Site
 
 - [Published](https://alexhedley.github.io/comedy)
@@ -15,3 +13,7 @@
 ## License
 
 - [MIT License](LICENSE)
+
+## Docs
+
+- [Docs](docs/README.md)
