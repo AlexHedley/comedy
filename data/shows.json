@@ -1,6 +1,43 @@
 {
   "shows": [
     {
+      "id": 3,
+      "name": "The Saturday Show",
+      "date": "2023-05-06",
+      "description": "",
+      "start": "20:00",
+      "end": "22:15",
+      "price": "£20.00",
+      "venue": "The Stand Comedy Club",
+      "location": "Newcastle",
+      "image": "images/TheSaturdayShow.jpg",
+      "link": "https://www.thestand.co.uk/performances/1478-14307-the-saturday-show-20230506-newcastle/",
+      "comedians": [
+        {
+          "name": " Sammy Dobson",
+          "link": "https://twitter.com/sammytdobson",
+          "compere": true
+        },
+        {
+          "name": "Liam Tuffy",
+          "link": "https://twitter.com/LiamTuffyComedy"
+        },
+        {
+          "name": "Si Beckwith",
+          "link": "https://twitter.com/SiBeckwith"
+        },
+        {
+          "name": "Gareth Mutch",
+          "link": "https://twitter.com/GarethMutch"
+        },
+        {
+          "name": "MC Hammersmith",
+          "link": "https://twitter.com/mc_hammersmith",
+          "headliner": true
+        }
+      ]
+    },
+    {
       "id": 2,
       "name": "The Friday Show",
       "date": "2023-02-17",
@@ -15,7 +52,8 @@
       "comedians": [
         {
           "name": "Steffen Peddie",
-          "link": "https://twitter.com/Geordie_Comic"
+          "link": "https://twitter.com/Geordie_Comic",
+          "compere": true
         },
         {
           "name": "Thor Stenhaug",
